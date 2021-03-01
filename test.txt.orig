@@ -2,11 +2,13 @@ Initial Function()
 {
   // sample code
 }
+<<<<<<< HEAD
 feature2()
 {
    // sample code
-}
+=======
 Initial Security()
 {
   // Sample code for feature2
+>>>>>>> main
 }
